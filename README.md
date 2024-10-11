@@ -4,7 +4,7 @@ Welcome to my project showcase! Here, you'll find a collection of my personal pr
 
 ## 🛠️ Projects
 
-### 1. [Inventory Predictor](https://github.com/aram0057/Personal-Projects/tree/main/a%20Predictor) 📦
+### 1. [Inventory Predictor](https://github.com/aram0057/Personal-Projects/tree/main/Inventory%20Predictor) 📦
 An intelligent system that predicts stock levels based on AI models. Say goodbye to guesswork and hello to efficient inventory management! 
 
 ### 2. [Melb Cycle](https://github.com/aram0057/Personal-Projects/tree/main/melb%20cycle) 🚴‍♂️
