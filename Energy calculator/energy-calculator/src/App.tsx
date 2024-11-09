@@ -68,10 +68,10 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col md:flex-row bg-gray-50">
+    <div className="min-h-screen flex flex-col md:flex-row bg-gray-150">
       {/* Electricity Form Section */}
       <div className="flex-1 p-8">
-        <h1 className="text-2xl font-bold mb-6 text-center">Energy Cost Calculator</h1>
+        <h1 className="text-4xl font-bold mb-6 text-center">Energy Cost Calculator</h1>
 
         <form className="space-y-4">
           <div>
