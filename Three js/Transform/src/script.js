@@ -24,9 +24,9 @@ scene.add(mesh)
 
 // Camera
 const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height)
-camera.position.x = 3
-camera.position.y = 3
-camera.position.z = 3
+camera.position.x = 1
+camera.position.y = 1
+camera.position.z = 1
 camera.lookAt(mesh.position)
 scene.add(camera)
 
